@@ -1,0 +1,40 @@
+2019-03-26 21:09:57,435 0      [ost-startStop-1] INFO  work.web.context.ContextLoader  - Root WebApplicationContext: initialization started
+2019-03-26 21:09:57,531 96     [ost-startStop-1] INFO  pport.XmlWebApplicationContext  - Refreshing Root WebApplicationContext: startup date [Tue Mar 26 21:09:57 CST 2019]; root of context hierarchy
+2019-03-26 21:09:57,584 149    [ost-startStop-1] INFO  ry.xml.XmlBeanDefinitionReader  - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-03-26 21:09:57,788 353    [ost-startStop-1] INFO  ry.xml.XmlBeanDefinitionReader  - Loading XML bean definitions from class path resource [applicationContext-dao.xml]
+2019-03-26 21:09:57,863 428    [ost-startStop-1] INFO  ry.xml.XmlBeanDefinitionReader  - Loading XML bean definitions from class path resource [applicationContext-service.xml]
+2019-03-26 21:09:58,144 709    [ost-startStop-1] INFO  redAnnotationBeanPostProcessor  - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-03-26 21:09:59,129 1694   [ost-startStop-1] INFO  work.web.context.ContextLoader  - Root WebApplicationContext: initialization completed in 1693 ms
+2019-03-26 21:09:59,262 1827   [ost-startStop-1] INFO  .web.servlet.DispatcherServlet  - FrameworkServlet 'dispatcherServlet': initialization started
+2019-03-26 21:09:59,268 1833   [ost-startStop-1] INFO  pport.XmlWebApplicationContext  - Refreshing WebApplicationContext for namespace 'dispatcherServlet-servlet': startup date [Tue Mar 26 21:09:59 CST 2019]; parent: Root WebApplicationContext
+2019-03-26 21:09:59,268 1833   [ost-startStop-1] INFO  ry.xml.XmlBeanDefinitionReader  - Loading XML bean definitions from class path resource [springmvc.xml]
+2019-03-26 21:09:59,392 1957   [ost-startStop-1] INFO  redAnnotationBeanPostProcessor  - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-03-26 21:09:59,652 2217   [ost-startStop-1] INFO  andler.SimpleUrlHandlerMapping  - Mapped URL path [/css/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#0'
+2019-03-26 21:09:59,675 2240   [ost-startStop-1] INFO  andler.SimpleUrlHandlerMapping  - Mapped URL path [/images/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#1'
+2019-03-26 21:09:59,678 2243   [ost-startStop-1] INFO  andler.SimpleUrlHandlerMapping  - Mapped URL path [/js/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#2'
+2019-03-26 21:09:59,813 2378   [ost-startStop-1] INFO  n.RequestMappingHandlerAdapter  - Looking for @ControllerAdvice: WebApplicationContext for namespace 'dispatcherServlet-servlet': startup date [Tue Mar 26 21:09:59 CST 2019]; parent: Root WebApplicationContext
+2019-03-26 21:09:59,872 2437   [ost-startStop-1] INFO  n.RequestMappingHandlerAdapter  - Looking for @ControllerAdvice: WebApplicationContext for namespace 'dispatcherServlet-servlet': startup date [Tue Mar 26 21:09:59 CST 2019]; parent: Root WebApplicationContext
+2019-03-26 21:09:59,975 2540   [ost-startStop-1] INFO  .web.servlet.DispatcherServlet  - FrameworkServlet 'dispatcherServlet': initialization completed in 713 ms
+2019-03-26 21:10:10,306 12871  [bio-8080-exec-6] WARN  ework.web.servlet.PageNotFound  - No mapping found for HTTP request with URI [/mix_01_web/account/findById] in DispatcherServlet with name 'dispatcherServlet'
+2019-03-26 21:10:20,892 23457  [io-8080-exec-10] WARN  ework.web.servlet.PageNotFound  - No mapping found for HTTP request with URI [/mix_01_web/account/findById] in DispatcherServlet with name 'dispatcherServlet'
+2019-03-26 21:12:33,174 0      [ost-startStop-1] INFO  work.web.context.ContextLoader  - Root WebApplicationContext: initialization started
+2019-03-26 21:12:33,279 105    [ost-startStop-1] INFO  pport.XmlWebApplicationContext  - Refreshing Root WebApplicationContext: startup date [Tue Mar 26 21:12:33 CST 2019]; root of context hierarchy
+2019-03-26 21:12:33,353 179    [ost-startStop-1] INFO  ry.xml.XmlBeanDefinitionReader  - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-03-26 21:12:33,566 392    [ost-startStop-1] INFO  ry.xml.XmlBeanDefinitionReader  - Loading XML bean definitions from class path resource [applicationContext-dao.xml]
+2019-03-26 21:12:33,665 491    [ost-startStop-1] INFO  ry.xml.XmlBeanDefinitionReader  - Loading XML bean definitions from class path resource [applicationContext-service.xml]
+2019-03-26 21:12:34,183 1009   [ost-startStop-1] INFO  redAnnotationBeanPostProcessor  - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-03-26 21:12:35,566 2392   [ost-startStop-1] INFO  work.web.context.ContextLoader  - Root WebApplicationContext: initialization completed in 2390 ms
+2019-03-26 21:12:35,763 2589   [ost-startStop-1] INFO  .web.servlet.DispatcherServlet  - FrameworkServlet 'dispatcherServlet': initialization started
+2019-03-26 21:12:35,769 2595   [ost-startStop-1] INFO  pport.XmlWebApplicationContext  - Refreshing WebApplicationContext for namespace 'dispatcherServlet-servlet': startup date [Tue Mar 26 21:12:35 CST 2019]; parent: Root WebApplicationContext
+2019-03-26 21:12:35,770 2596   [ost-startStop-1] INFO  ry.xml.XmlBeanDefinitionReader  - Loading XML bean definitions from class path resource [springmvc.xml]
+2019-03-26 21:12:35,986 2812   [ost-startStop-1] INFO  redAnnotationBeanPostProcessor  - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-03-26 21:12:36,257 3083   [ost-startStop-1] INFO  andler.SimpleUrlHandlerMapping  - Mapped URL path [/css/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#0'
+2019-03-26 21:12:36,280 3106   [ost-startStop-1] INFO  andler.SimpleUrlHandlerMapping  - Mapped URL path [/images/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#1'
+2019-03-26 21:12:36,284 3110   [ost-startStop-1] INFO  andler.SimpleUrlHandlerMapping  - Mapped URL path [/js/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#2'
+2019-03-26 21:12:36,354 3180   [ost-startStop-1] INFO  n.RequestMappingHandlerMapping  - Mapped "{[/account/transfer]}" onto public java.lang.String cn.coder.controller.AccountController.transfer(java.lang.Integer,java.lang.Integer,java.lang.Integer)
+2019-03-26 21:12:36,355 3181   [ost-startStop-1] INFO  n.RequestMappingHandlerMapping  - Mapped "{[/account/findAll]}" onto public org.springframework.web.servlet.ModelAndView cn.coder.controller.AccountController.findAll(org.springframework.web.servlet.ModelAndView)
+2019-03-26 21:12:36,357 3183   [ost-startStop-1] INFO  n.RequestMappingHandlerMapping  - Mapped "{[/account/findById]}" onto public org.springframework.web.servlet.ModelAndView cn.coder.controller.AccountController.findById(org.springframework.web.servlet.ModelAndView,java.lang.Integer)
+2019-03-26 21:12:36,479 3305   [ost-startStop-1] INFO  n.RequestMappingHandlerAdapter  - Looking for @ControllerAdvice: WebApplicationContext for namespace 'dispatcherServlet-servlet': startup date [Tue Mar 26 21:12:35 CST 2019]; parent: Root WebApplicationContext
+2019-03-26 21:12:36,541 3367   [ost-startStop-1] INFO  n.RequestMappingHandlerAdapter  - Looking for @ControllerAdvice: WebApplicationContext for namespace 'dispatcherServlet-servlet': startup date [Tue Mar 26 21:12:35 CST 2019]; parent: Root WebApplicationContext
+2019-03-26 21:12:36,745 3571   [ost-startStop-1] INFO  .web.servlet.DispatcherServlet  - FrameworkServlet 'dispatcherServlet': initialization completed in 981 ms
+2019-03-26 21:12:44,107 10933  [bio-8080-exec-5] INFO  aba.druid.pool.DruidDataSource  - {dataSource-1} inited

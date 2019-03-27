@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="mix_01_dao" />
+        <module name="mix_01_domain" />
+        <module name="mix_01_service" />
+        <module name="mix_01_web" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="1.8">
+      <module name="mix_01" target="1.8" />
+      <module name="mix_01_dao" target="1.8" />
+      <module name="mix_01_domain" target="1.8" />
+      <module name="mix_01_service" target="1.8" />
+      <module name="mix_01_web" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
